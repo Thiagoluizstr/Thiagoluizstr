@@ -1,5 +1,9 @@
 # Olá seja bem vindo 👋
 
+<p align="center">
+  <img src="portfolio.png" >
+</p>
+
 Meu nome é Thiago Luiz 🇧🇷 
 
 Engenheiro Eletricista e atualmente pós-graduando em Ciência de Dados e Big Data Analytics. 👨‍🎓
