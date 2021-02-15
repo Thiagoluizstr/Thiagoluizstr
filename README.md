@@ -4,7 +4,7 @@ Meu nome é Thiago Luiz 🇧🇷
 
 Engenheiro Eletricista, Desenvolvedor e atualmente pós-graduando em Ciência de Dados e Big Data Analytics. 👨‍🎓
 
-Buscando uma oportunidade no mercado de tecnologia para aprimorar meus conhecimentos como Cientista de Dados / Desenvolvedor Back-End/Front-End. 
+Buscando uma oportunidade no mercado de tecnologia para aprimorar meus conhecimentos como Cientista de Dados ou Desenvolvedor Back-End / Front-End. 
 
 ### "O segredo do sucesso é a constância do propósito" 
 
