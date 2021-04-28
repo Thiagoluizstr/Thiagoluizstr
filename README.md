@@ -16,5 +16,5 @@ Buscando uma oportunidade no mercado de tecnologia para aprimorar meus conhecime
 
 Contatos: 👇
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Luiz-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/thiago-luiz-str/)](https://www.linkedin.com/in/linkedin.com/in/thiago-luiz-str/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Luiz-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/thiago-luiz-str/)](https://www.linkedin.com/in/thiago-luiz-str/) 
 [![Twitter Badge](https://img.shields.io/badge/-@ThiagoLuizPint3-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/ThiagoLuizPint3)](https://twitter.com/ThiagoLuizPint3) 
