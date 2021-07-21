@@ -11,7 +11,7 @@ Buscando uma oportunidade no mercado de tecnologia para aprender novas tecnologi
 ### "O segredo do sucesso é a constância do propósito" 
 
 - 🤓 Sou de Niterói-RJ 
-- 👨‍💻 Desenvolvedor / Cientista de Dados / Eng. eletricista
+- 👨‍💻 Desenvolvedor / Pós Graduando em Eng. de Computação
 - 🤖 Compartilhando um pouco da minha jornada de aprendizado
 
 Contatos: 👇
