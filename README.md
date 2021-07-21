@@ -4,7 +4,7 @@
 
 Meu nome é Thiago Luiz 🇧🇷 
 
-Formado em Engenharia Elétrica / Eletrônica, Desenvolvedor Júnior e atualmente pós-graduando em Ciência de Dados e Big Data Analytics. 👨‍🎓
+Desenvolvedor, Pós graduando em Eng. da Computação e Sistemas e bacharelado em Eng. Elétrica e Eletrônica 👨‍🎓
 
 Buscando uma oportunidade no mercado de tecnologia para aprender novas tecnologias e com isso aprimorar meus conhecimentos como Desenvolvedor Júnior e Cientista de Dados. 
 
