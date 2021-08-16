@@ -6,7 +6,7 @@ Meu nome é Thiago Luiz 🇧🇷
 
 Desenvolvedor, Pós graduando em Eng. da Computação e Sistemas e bacharelado em Eng. Elétrica e Eletrônica 👨‍🎓
 
-Buscando uma oportunidade no mercado de tecnologia para aprender novas tecnologias e com isso aprimorar meus conhecimentos como Desenvolvedor Júnior e Cientista de Dados. 
+Curioso nato, amante da ciência e tecnologia desde pequeno. Iniciei minha vida acadêmica na engenharia e logo me apaixonei pelo desenvolvimento de software. Com sede de imergir neste mundo, mudo para a área e passo a me especializar em Python (Django e Flask) para back-end web. Agora com mais domínio das Techs & Tools do server side, venho caminhando para me tornar um full stack, com Java no front-end. 
 
 ### "O segredo do sucesso é a constância do propósito" 
 
