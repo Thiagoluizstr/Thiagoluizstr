@@ -17,11 +17,11 @@ alt="Instagram Badge"></a>
 <h2>⚡️ Alguns fatos rápidos</h2>
 <ul>
  	<li>👨‍💻 Meu perfil profissional está aqui <a href="https://www.linkedin.com/in/thiago-luiz-str/">Linkedin</a></li>	
-	<li>👨‍💻 E meus trabalhos em Salesforce estão no <a href="https://trailblazer.me/id/tluizpinto"> Trailblazer </a></li>	
+	<li>👨‍🎓 E meus trabalhos em Salesforce estão no <a href="https://trailblazer.me/id/tluizpinto"> Trailblazer </a></li>	
     <li>💬 Passo o tempo codificando e estudando linguagens de programação, trabalho em projetos pessoais para maior assertividade no mercado de Tecnologia.</li>	    
     <li> 🔎 Pesquiso sobre Computação e tecnologias.</li>	    	    <li>📙Confira meu <a href="https://thiagoluizstr.github.io/Curriculo_HTML/">currículo</a>.</li>
     <li>🗺️ Curiosidade: Gosto de estudar música nas horas vagas !</li>	
-</ul>	</ul>
+</ul>	</ul> <br>
 
 
 <h2>🔧 Algumas ferramentas que já usei academicamente e em projetos pessoais </h2>
