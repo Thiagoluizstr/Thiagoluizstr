@@ -7,9 +7,9 @@
  alt="Twitter Blue"></a> 
  <a href="https://www.linkedin.com/in/thiago-luiz-str/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@Thiagoluizstr-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/thiago-luiz-str/" alt="LinkedIn Badge"></a> 
 <a href="https://www.facebook.com/thiago.luizpinto.5/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@thiago.luizpinto.5-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/mazarafa7" alt="Facebook Badge"> </a> 
-<a href="https://www.instagram.com/thiagoluizblt/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@thiagoluizblt-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" 
+<a href="https://www.instagram.com/thiagoluizblt/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@thiagoluizblt-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/thiagoluizblt/" 
 alt="Instagram Badge"></a>
-<!-- <a href="thiagoluizstr@hotmail.com"><img scr="https://img.shields.io/badge/-rafinha.dev-c14438?style=flat&logo=Outlook&logoColor=white&link=mailto:rafinha.dev@outlook.com" alt="Outlook Badge"></a> -->
+<!-- <a href="thiagoluizstr@hotmail.com"><img scr="https://img.shields.io/badge/-thiagoluizstr.dev-c14438?style=flat&logo=Outlook&logoColor=white&link=mailto:thiagoluizstr@hotmail.com" alt="Outlook Badge"></a> -->
 
 </p>
 
