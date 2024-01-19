@@ -1,6 +1,6 @@
 <h2>Olá 👋, eu sou <a href="https://github.com/Thiagoluizstr">Thiago Luiz  🇧🇷 </a></h2>
 
-<p>Desenvolvedor de Software, Pós graduando em Eng. da Computação e Sistemas e bacharelado em Eng. Elétrica e Eletrônica. </p><p> Curioso nato, amante da ciência e tecnologia desde pequeno. Iniciei minha vida acadêmica na engenharia e logo me apaixonei pelo desenvolvimento de software. Com sede de imergir neste mundo, mudo para a área e passo a me especializar em Python (Django e Flask) para back-end web. Agora com mais domínio das Techs & Tools do server side, venho caminhando para aprimorar mais meus conhecimentos estudando Java. 
+<p>Desenvolvedor de Software, Pós graduando em Eng. da Computação e bacharelado em Eng. Elétrica e Eletrônica. </p><p> Curioso nato, amante da ciência e tecnologia desde pequeno. Iniciei minha vida acadêmica na engenharia e logo me apaixonei pelo desenvolvimento de software. Com sede de imergir neste mundo, mudo para a área e passo a me especializar em Python (Django e Flask) para back-end web. Agora com mais domínio das Techs & Tools do server side, venho caminhando para aprimorar mais meus conhecimentos estudando Java. 
 
 <h2>"O segredo do sucesso é a constância do propósito" </h2>
  <a href="https://twitter.com/Thiagoluizstr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@Thiagoluizstr-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=twitter&amp;link=https://twitter.com/Thiagoluizstr/" 
