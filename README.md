@@ -43,6 +43,7 @@ alt="Instagram Badge"></a>
 </p>
 
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Thiagoluizstr&show_icons=true&hide_border=true" alt="ThiagoLuiz Github Status">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovcdbr&layout=compact&langs_count=7&theme=radical"/>
-<div>
+ <a href="https://github.com/tiagovcdbr">
+ <img height="170em" src="https://github-readme-stats.vercel.app/api?username=tiagovcdbr&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovcdbr&layout=compact&langs_count=7&theme=radical"/>
+</div>
