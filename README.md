@@ -44,4 +44,3 @@ alt="Instagram Badge"></a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Thiagoluizstr&show_icons=true&hide_border=true" alt="ThiagoLuiz Github Status">
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagovcdbr&layout=compact&langs_count=7&theme=radical"/>
-</div>
